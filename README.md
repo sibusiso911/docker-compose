@@ -1,4 +1,4 @@
-### Open Terminal
+### Open Terminal on linux/macOS
 ##### Ensure you have an SSH Key Set Up
 
 ##### First Check if your Already have an SSH Key:
